@@ -1,0 +1,30 @@
+{
+  "name": "Skeletons of the East",
+  "id": "412641936436887563",
+  "sources": {
+    "90008987354_http://steamcommunitycom/games/252950": {
+      "title": "Rocket League RSS Feed",
+      "link": "http://steamcommunity.com/games/252950/rss/",
+      "channel": "419047073455931392",
+      "embedMessage": {
+        "properties": {
+          "color": "16777215",
+          "message": "{description}",
+          "imageURL": "{description:image1}"
+        }
+      }
+    },
+    "55355941574_http://steamcommunitycom/games/381210": {
+      "title": "Dead by Daylight RSS Feed",
+      "link": "http://steamcommunity.com/games/381210/rss/",
+      "channel": "419062216155725824",
+      "embedMessage": {
+        "properties": {
+          "color": "16777215",
+          "message": "{description}",
+          "imageURL": "{image1}"
+        }
+      }
+    }
+  }
+}
