@@ -1,0 +1,20 @@
+{
+  "name": "Maddi3Cat",
+  "id": "417727658596499466",
+  "sources": {
+    "86358982131_https://steamcommunitycom/games/252950": {
+      "title": "Rocket League RSS Feed",
+      "link": "https://steamcommunity.com/games/252950/rss/",
+      "channel": "451142644719157248",
+      "embedMessage": {
+        "properties": {
+          "color": "16056575",
+          "message": "{description} {link}",
+          "thumbnailURL": "{image1}",
+          "imageURL": "{description:image1}",
+          "url": "{link}"
+        }
+      }
+    }
+  }
+}
